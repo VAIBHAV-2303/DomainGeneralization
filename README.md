@@ -1,2 +1,2 @@
 # DomainGeneralization
-SoTA Domain Generalization results on PACS dataset
+Official Implementation of the models achieving SoTA Domain Generalization results on PACS dataset.
